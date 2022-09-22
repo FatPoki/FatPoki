@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/_v0id_7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v0id_7_" height="30" width="40" /></a>
 <a href="https://discord.gg/tWpVquJsHJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tWpVquJsHJ" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Anoopsharma333" target="blank"><img align="center" src="https://razvioverflow.github.io/images/tryhackme/logo_0.png" alt="Anoop sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
