@@ -8,13 +8,12 @@
 
 - 📫 How to reach me **as7235939640@gmail.com**
 
-- ⚡ Fun fact **I Think im Mad for knowledge!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_v0id_7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v0id_7_" height="30" width="40" /></a>
 <a href="https://discord.gg/tWpVquJsHJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tWpVquJsHJ" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/Anoopsharma333" target="blank"><img align="center" src="https://razvioverflow.github.io/images/tryhackme/logo_0.png" alt="Anoop sharma" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Anoopsharma333" target="blank"><img align="center" src="https://razvioverflow.github.io/images/tryhackme/logo_0.png" alt="Anoopsharma333" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/300715" target="blank"><img align="center" src="[https://razvioverflow.github.io/images/tryhackme/logo_0.png](https://www.hackthebox.com/images/logo-htb.svg)" alt="Anoop333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
