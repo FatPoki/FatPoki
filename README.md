@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vu1n4r4b13](https://github.com/vu1n4r4b13)
 
-- 📫 How to reach me **as7235939640@gmail.com**
+- 📫 How to reach me **ie.nyx@proton.me**
 
 
 <h3 align="left">Connect with me:</h3>
