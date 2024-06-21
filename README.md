@@ -36,6 +36,11 @@ A project analyzing data to derive meaningful insights.
 ![Linux Shell Scripts](https://via.placeholder.com/400x200.png?text=Linux+Shell+Scripts)
 Collection of Bash scripts for automating system administration tasks.
 
+
+### [Data Structure Scripts](https://github.com/anoop/data structure)
+![Data Structure](https://via.placeholder.com/400x200.png?text=Linux+Shell+Scripts)
+Collection of data structure topics and questions .
+
 ## GitHub Stats
 
 ![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoop&show_icons=true&theme=default)
