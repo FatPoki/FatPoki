@@ -38,8 +38,8 @@ Collection of Bash scripts for automating system administration tasks.
 
 
 ### [Data Structures and Algorithms](https://github.com/username/data-structures-algorithms)
-![Data Structures and Algorithms](https://via.placeholder.com/400x200.png?text=Data+Structures+and+Algorithms)
-Collection of code and resources for various data structures and algorithms, covering topics like arrays, linked lists, trees, graphs, sorting, and searching algorithms.
+![Data Structures and Algorithms](https://via.placeholder.com/400x200.png?text=Data+Structures+&+Algorithms)
+Collection of code and resources for various data structures and algorithms.
 
 
 ## GitHub Stats
