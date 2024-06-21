@@ -37,9 +37,10 @@ A project analyzing data to derive meaningful insights.
 Collection of Bash scripts for automating system administration tasks.
 
 
-### [Data Structure Scripts](https://github.com/anoop/data structure)
-![Data Structure](https://via.placeholder.com/400x200.png?text=Linux+Shell+Scripts)
-Collection of data structure topics and questions .
+### [Data Structures and Algorithms](https://github.com/username/data-structures-algorithms)
+![Data Structures and Algorithms](https://via.placeholder.com/400x200.png?text=Data+Structures+and+Algorithms)
+Collection of code and resources for various data structures and algorithms, covering topics like arrays, linked lists, trees, graphs, sorting, and searching algorithms.
+
 
 ## GitHub Stats
 
