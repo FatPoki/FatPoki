@@ -42,6 +42,9 @@ Collection of Bash scripts for automating system administration tasks.
 Collection of code and resources for various data structures and algorithms.
 
 
+### [Certifications]
+- Internship in cybersecurity 
+
 ## GitHub Stats
 
 ![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoop&show_icons=true&theme=default)
