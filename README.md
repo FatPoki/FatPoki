@@ -43,7 +43,7 @@ Collection of code and resources for various data structures and algorithms.
 
 
 ### [Certifications]
-- Internship in cybersecurity 
+- [Internship in cybersecurity](https://www.dropbox.com/scl/fi/yixqmvryxmndqdt0701l4/Anoop-Sharma_Internship-completion.jpg?rlkey=63ub82auec1xyb0gjagxytbdd&dl=0)
 
 ## GitHub Stats
 
