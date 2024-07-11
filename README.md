@@ -57,7 +57,7 @@ Collection of code and resources for various data structures and algorithms.
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ie.nyx@proton.me)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_sy1ph?s=09)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:as7235939640@gmail.com)
 
 Thank you for visiting my profile!
