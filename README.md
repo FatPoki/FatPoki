@@ -28,9 +28,6 @@ Hello! I'm Anoop, a passionate developer with interests in full-stack developmen
 
 ## Projects
 
-### [Data Science Project](https://github.com/anoop/data-science-project)
-![Data Science Project](https://via.placeholder.com/400x200.png?text=Data+Science+Project)
-A project analyzing data to derive meaningful insights.
 
 ### [Linux Shell Scripts](https://github.com/anoop/linux-shell-scripts)
 ![Linux Shell Scripts](https://via.placeholder.com/400x200.png?text=Linux+Shell+Scripts)
