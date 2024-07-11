@@ -50,7 +50,7 @@ Collection of code and resources for various data structures and algorithms.
 - [Personal life coach](https://fatpoki.netlify.app)
 ## GitHub Stats
 
-![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoop&show_icons=true&theme=default)
+![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatpoki&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop&layout=compact&theme=default)](https://github.com/anoop/github-readme-stats)
 
