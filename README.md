@@ -47,7 +47,7 @@ Collection of code and resources for various data structures and algorithms.
 
 
 ### WebDev Projects 
-- https://fatpoki.netlify.app
+- [P1](https://fatpoki.netlify.app)
 ## GitHub Stats
 
 ![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoop&show_icons=true&theme=default)
