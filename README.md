@@ -35,7 +35,7 @@ Hello! I'm Anoop, a passionate developer with interests in full-stack developmen
 <img src="https://images.unsplash.com/photo-1629654291663-b91ad427698f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?text=Linux+Shell+Scripts" alt="Linux Shell Scripts" style=" border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"/>
 
 
-### [Data Structures and Algorithms](https://github.com/username/data-structures-algorithms)
+### [Data Structures and Algorithms](https://github.com/FatPoki/Data-Structure)
 <img src="https://images.unsplash.com/photo-1555952494-efd681c7e3f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?text=Linux+Shell+Scripts" alt="Linux Shell Scripts" style=" border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"/>
 
 Collection of code and resources for various data structures and algorithms.
