@@ -47,6 +47,8 @@ Collection of code and resources for various data structures and algorithms.
 
 ### WebDev Projects 
 - [Personal life coach](https://fatpoki.netlify.app)
+  
+- [Web Shell](https://webshell.serveo.net/)
 ## GitHub Stats
 
 ![Fatpoki GitHub stats](https://github-readme-stats.vercel.app/api?username=fatpoki&show_icons=true&theme=default)
