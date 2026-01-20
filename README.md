@@ -6,13 +6,13 @@
 
 ## About Me
 
-Hello! I'm Anoop, a passionate developer with interests in full-stack development, penetration testing, data science, and more. I enjoy tackling challenges and exploring new technologies.
+Driven Cybersecurity Analyst focused on tackling challenges and technical innovation.
 
 - 🔪 Currently hunting for a job in the tech industry.
 - 📚 I’m continuously learning new technologies to expand my skill set.
 - 🤝 I’m interested in collaborating on projects that push the boundaries of technology and make a meaningful impact.
 - 💬 Ask me about full-stack development, penetration testing tools, data science techniques, or Linux system administration.
-- 📫 How to reach me: [ie.nyx@proton.me](mailto:ie.nyx@proton.me)
+- 📫 How to reach me: [ie.nyx@proton.me](mailto:anooopsharma.12003@gmail.com)
 - 👦 Pronouns: he/him
 
 ## Skills
@@ -33,7 +33,7 @@ Hello! I'm Anoop, a passionate developer with interests in full-stack developmen
 
 ### [Reverce Shell code](https://github.com/fatpoki/Reverce-shell)
 <img src="https://images.unsplash.com/photo-1629654291663-b91ad427698f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?text=Linux+Shell+Scripts" alt="Linux Shell Scripts" style=" border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"/>
-
+<br><hr>
 
 ### [Soc Analyst Memo](https://github.com/FatPoki/Security-Operations-Center-detailed-Reference)
 
@@ -41,8 +41,8 @@ Hello! I'm Anoop, a passionate developer with interests in full-stack developmen
   <img src="https://github.com/user-attachments/assets/fab54c58-aed4-4595-9435-eaa39f749d69" 
        alt="SOC Analyst Memo Preview" 
        style="border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"> <br>
-  <figcaption><i>Wisely arranged notes for SOC analyst role created by me.</i></figcaption>
-</figure>
+  <br>
+  <hr>
 
 ### Certifications
 - [Internship in cybersecurity](https://www.dropbox.com/scl/fi/yixqmvryxmndqdt0701l4/Anoop-Sharma_Internship-completion.jpg?rlkey=63ub82auec1xyb0gjagxytbdd&dl=0)
