@@ -12,7 +12,7 @@ Driven Cybersecurity Analyst focused on tackling challenges and technical innova
 - 📚 I’m continuously learning new technologies to expand my skill set.
 - 🤝 I’m interested in collaborating on projects that push the boundaries of technology and make a meaningful impact.
 - 💬 Ask me about full-stack development, penetration testing tools, data science techniques, or Linux system administration.
-- 📫 How to reach me: [ie.nyx@proton.me](mailto:anooopsharma.12003@gmail.com)
+- 📫 How to reach me: [anoopsharma.12003@gmail.com](mailto:anooopsharma.12003@gmail.com)
 - 👦 Pronouns: he/him
 
 ## Skills
