@@ -40,7 +40,7 @@ Hello! I'm Anoop, a passionate developer with interests in full-stack developmen
 <figure>
   <img src="https://github.com/user-attachments/assets/fab54c58-aed4-4595-9435-eaa39f749d69" 
        alt="SOC Analyst Memo Preview" 
-       style="border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;">
+       style="border: 2px solid #000; width: 500px; height: 200px; object-fit: cover;"> <br>
   <figcaption><i>Wisely arranged notes for SOC analyst role created by me.</i></figcaption>
 </figure>
 
